@@ -84,3 +84,18 @@ body {
   top: 20px;
   font-size: 30px;
 }
+
+
+  /* ================  MEDIA QUERIES ================ */
+
+  @media (max-width: 450px) {
+
+  .research-text {
+    bottom: 25%;
+    font-size: 12px;
+  }
+
+}
+
+
+  
