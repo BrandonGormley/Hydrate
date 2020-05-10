@@ -73,9 +73,11 @@ body {
 
 .research-text {
   color: white;
-  position: fixed;
-  bottom: 25%;
+  position: relative;
+  top: 5%;
   font-size: 15px;
+  text-align: center;
+  margin: 0 32px;
 }
 
 #water-intake {
@@ -88,14 +90,7 @@ body {
 
   /* ================  MEDIA QUERIES ================ */
 
-  @media (max-width: 450px) {
 
-  .research-text {
-    bottom: 25%;
-    font-size: 12px;
-  }
-
-}
 
 
   
